@@ -1,0 +1,4 @@
+best.pt and last.pt are video generated from training the YOLO models
+google drive links
+best.pt: https://drive.google.com/file/d/1DFZu3whaQYICvV2pv8vY2U-ClvnKjGDU/view?usp=drive_link
+last.pt: https://drive.google.com/file/d/1M3BfuSgGpU0Nr3iHKsdz80BoZM8pwy-a/view?usp=drive_link
