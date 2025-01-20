@@ -18,6 +18,9 @@ Modules Used
 **Input Video**
 - https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view
 
+**Output Video**
+- https://drive.google.com/file/d/1DxEaNmQVQn3ffrblly-ZBph2TgWG5fd1/view?usp=drive_link 
+
 To run this project, you need to have the following installed:
 - Python 3.x
 - ultralytics
